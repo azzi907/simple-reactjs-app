@@ -13,8 +13,8 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
-This URL has the application deployed in
+### https://portal.getgoally.com/
+This URL has the Goally Web portal application deployed 
 
 ## Prerequisites
 
